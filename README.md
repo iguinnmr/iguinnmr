@@ -118,18 +118,6 @@
 </tr>
 </table>
 
-<table>
-<tr>
- <td align="center"></td>
-</tr>
-<tr>
- <td align="center"><a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank"><img align="center" alt="github-user-contribution" src="https://iguinnmr.github.io/image/github-user-contribution.svg?raw=true"/></a></td>
-</tr>
-<tr>
- <td align="center"></td>
-</tr> 
-</table>
-
 </div>
 </div>
 
