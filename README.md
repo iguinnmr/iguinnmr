@@ -121,14 +121,4 @@
 </div>
 </div>
 
------
-
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://iguinnmr.github.io/image/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=igornmoreira145" alt="Data Card for Spotify">
-</details>
-</div>
-
-
 <img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=iguinnmr"/>
