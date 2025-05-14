@@ -23,8 +23,6 @@
 <td><a href="https://www.linkedin.com/in/joaopauloaramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 
-<td><a href="https://calendly.com/aramuni/" target="_blank"><img src="https://joaopauloaramuni.github.io/image/calendar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
